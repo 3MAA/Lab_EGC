@@ -1,0 +1,42 @@
+C:\Users\Ema\Desktop\Tema 3\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\Users\Ema\Desktop\Tema 3\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Ema\Desktop\Tema 3\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Ema\Desktop\Tema 3\Lab4\bin\Debug\Lab4.exe
+C:\Users\Ema\Desktop\Tema 3\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Ema\Desktop\Tema 3\Lab4\bin\Debug\OpenTK.dll
+C:\Users\Ema\Desktop\Tema 3\Lab4\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Ema\Desktop\Tema 3\Lab4\bin\Debug\OpenTK.pdb
+C:\Users\Ema\Desktop\Tema 3\Lab4\bin\Debug\OpenTK.xml
+C:\Users\Ema\Desktop\Tema 3\Lab4\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Ema\Desktop\Tema 3\Lab4\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Ema\Desktop\Tema 3\Lab4\obj\Debug\Lab4.csproj.CopyComplete
+C:\Users\Ema\Desktop\Tema 3\Lab4\obj\Debug\Lab4.exe
+C:\Users\Ema\Desktop\Tema 3\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Ema\Desktop\Tema Lab 3\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Ema\Desktop\Tema Lab 3\Lab4\bin\Debug\Lab4.exe
+C:\Users\Ema\Desktop\Tema Lab 3\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Ema\Desktop\Tema Lab 3\Lab4\bin\Debug\OpenTK.dll
+C:\Users\Ema\Desktop\Tema Lab 3\Lab4\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Ema\Desktop\Tema Lab 3\Lab4\bin\Debug\OpenTK.pdb
+C:\Users\Ema\Desktop\Tema Lab 3\Lab4\bin\Debug\OpenTK.xml
+C:\Users\Ema\Desktop\Tema Lab 3\Lab4\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Ema\Desktop\Tema Lab 3\Lab4\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Ema\Desktop\Tema Lab 3\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\Users\Ema\Desktop\Tema Lab 3\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Ema\Desktop\Tema Lab 3\Lab4\obj\Debug\Lab4.csproj.CopyComplete
+C:\Users\Ema\Desktop\Tema Lab 3\Lab4\obj\Debug\Lab4.exe
+C:\Users\Ema\Desktop\Tema Lab 3\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Ema\Desktop\EGC\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Ema\Desktop\EGC\Lab4\bin\Debug\Lab4.exe
+C:\Users\Ema\Desktop\EGC\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Ema\Desktop\EGC\Lab4\bin\Debug\OpenTK.dll
+C:\Users\Ema\Desktop\EGC\Lab4\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Ema\Desktop\EGC\Lab4\bin\Debug\OpenTK.pdb
+C:\Users\Ema\Desktop\EGC\Lab4\bin\Debug\OpenTK.xml
+C:\Users\Ema\Desktop\EGC\Lab4\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Ema\Desktop\EGC\Lab4\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Ema\Desktop\EGC\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\Users\Ema\Desktop\EGC\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Ema\Desktop\EGC\Lab4\obj\Debug\Lab4.csproj.CopyComplete
+C:\Users\Ema\Desktop\EGC\Lab4\obj\Debug\Lab4.exe
+C:\Users\Ema\Desktop\EGC\Lab4\obj\Debug\Lab4.pdb
